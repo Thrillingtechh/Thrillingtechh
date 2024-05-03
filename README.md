@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahnoor</h1>
 <h3 align="center">A passionate Flutter developer from Pakistan</h3>
 
- <img align="right" alt="coding"  width=400 src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"   />
+ <img align="right" alt="coding"  width=400 src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" />
 
 - 🔭 I’m currently working on **Vpn App**
 
